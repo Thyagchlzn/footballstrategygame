@@ -31,11 +31,13 @@
    * r : resets board
 
 **PLAYING STYLES**
+
 * *POSITIONAL* : Attacks are structured and proceeds a slow build up
 * *DIRECT* : Plays  are based on low number of passes , long passes to score goals
 * *HIGHPRESS* :Goes man to man with the aim of winning ball high up the field
 * *SITBACK* : compact shape, no space between lines  , forces opposition to wings
-##PLAYER MOVES
+
+## PLAYER MOVES
 
 | ROLE |  MOVEMENT (without ball) |MOVEMENT (with ball)| TACKLING (1 space in that direction)	|		SPECIAL|
 | :-----:| :---: | :---: | :---: | :-----: | 
@@ -48,7 +50,8 @@
 |10|	1 space|1  space|	UP	|LOB PASS,			SPECIAL PASS|
 
 
-##SPECIAL MOVES
+## SPECIAL MOVES
+
 **LOB PASS:**
 * Reciever and passer should be free from opponent in terms of one space in the direction of passer
 
