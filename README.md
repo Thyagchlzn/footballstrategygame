@@ -16,7 +16,7 @@
 </br>
 * This project aims to showcase the strategic aspects of football in a unique way, differentiating itself from traditional football manager games that primarily prioritize player quality over specific roles. In this game, players are represented by numbers, each corresponding to a particular role on the field. There are seven roles available, and the goalkeeper position is fixed and unchangeable. Users have the freedom to select any formation and combine roles as they see fit, encouraging strategic thinking and adaptability.
   
-* The game's core focus lies in reading the game and anticipating attacks, which are vital skills that set successful players apart. Detailed rules are provided in both the Rules.md file and within the application to ensure clarity on gameplay mechanics.
+* The game's core focus lies in reading the game and anticipating attacks, which are vital skills that set successful players apart. Detailed rules are provided in both the **Rules.md** file and within the application to ensure clarity on gameplay mechanics.
 
 * During matches, players can receive move suggestions for individual players by interacting with them, enhancing the gameplay experience and aiding decision-making. Three game modes are available: single player, multiplayer, and scenarios. 
 
